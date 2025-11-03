@@ -1,0 +1,10 @@
+.hover-bg-change {
+  background-color: rgb(55, 8, 143);
+  transition: background-color 0.3s ease;
+  cursor: pointer;
+}
+
+.hover-bg-change:hover {
+  background-color: #065dd7;
+  color: rgb(201, 5, 5);
+}
